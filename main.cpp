@@ -9,5 +9,6 @@ int main()
     cout << "Summa chisel ="<< a + b << endl;
     cout << "Rasnost' chisel ="<< a - b << endl;
     cout << "Proisvedenie chisel ="<< a * b << endl;
+    cout << "Delenie chisel ="<< a / b << endl;
     return 0;
 }
